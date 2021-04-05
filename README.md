@@ -1,2 +1,2 @@
-# Site do projeto: https://fernandobalbino.github.io/ProjetoBlocoDeNotas/
+# Site do projeto: https://fernandobalbino.github.io/ProjetoListaDeTarefas/
 ## ProjetoListaDeTarefas
